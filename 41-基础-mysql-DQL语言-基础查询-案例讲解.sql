@@ -16,7 +16,7 @@ SELECT *
 FROM
     employees;
 
--- 可以执行成功
+# 可以执行成功
 
 
 # SELECT

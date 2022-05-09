@@ -8,4 +8,3 @@
 */
 
 SELECT DATABASE();
-
